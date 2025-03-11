@@ -1,0 +1,74 @@
+body {
+    font-family: 'Raleway', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #121212;
+    color: #f0f0f0;
+}
+
+header {
+    text-align: center;
+    padding: 50px 20px;
+    background: #1e2a38;
+}
+
+header h1 {
+    font-size: 3em;
+    color: #4ea8de;
+}
+
+nav {
+    text-align: center;
+    background: #212f3c;
+    padding: 15px;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav a {
+    color: #4ea8de;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+section {
+    text-align: center;
+    padding: 50px 20px;
+}
+
+section h2 {
+    color: #4ea8de;
+    font-size: 2.5em;
+}
+
+#gigs ul {
+    list-style: none;
+    padding: 0;
+}
+
+#gigs li {
+    font-size: 1.2em;
+    margin-bottom: 10px;
+}
+
+.social-links a {
+    display: inline-block;
+    margin: 10px;
+    color: #4ea8de;
+    font-size: 1.2em;
+    text-decoration: none;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background: #1e2a38;
+}
