@@ -7,7 +7,7 @@ body {
    
 }
 
-.hero-image {
+html{
     background-image: url("./dog-trio.png");
     height: 800px;
     background-position: center;
