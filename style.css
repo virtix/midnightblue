@@ -75,6 +75,14 @@ section h2 {
     padding-top:1em;
 }
 
+section h3 {
+    color: #ebf7ff;
+    font-size: 2em;
+    font-weight: bold;
+    padding-top:.5em;
+}
+
+
 #gigs ul {
     list-style: none;
     padding: 0;
