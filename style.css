@@ -2,7 +2,7 @@ body {
     font-family: 'Raleway', sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #18034c;
+    background-color: #00031f;
     color: #f0f0f0;
    
 }
@@ -22,7 +22,7 @@ header {
     text-align: center;
     padding: 10% /*50px 20px*/;
     background: rgb(27, 28, 84);
-    opacity: .25;
+    
     
 }
 
@@ -37,7 +37,6 @@ nav {
     text-align: center;
     background: rgba(22, 23, 79, 0.998);
     /*background: #212f3c;*/
-    opacity: .25;
     padding: 15px;
 
 }
