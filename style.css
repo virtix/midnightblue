@@ -4,16 +4,16 @@ body {
     padding: 0;
     background-color: #121212;
     color: #f0f0f0;
-    background-image: url('./dog-trio.png');
-    background-attachment:fixed;
-    background-repeat: no-repeat;
-    background-size: cover;
+   
 }
 
 header {
     text-align: center;
     padding: 50px 20px;
     background: #1e2a38;
+    background-image: url('./dog-trio.png');
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 header h1 {
