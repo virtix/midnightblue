@@ -21,7 +21,7 @@ body {
 header {
     text-align: center;
     padding: 20% /*50px 20px*/;
-    background: #1e2a38;
+    background: rgba(27, 28, 84, 0.299);
     opacity: .25;
     
 }
@@ -35,7 +35,8 @@ header h1 {
 
 nav {
     text-align: center;
-    background: #212f3c;
+    background: rgba(22, 23, 79, 0.54);
+    /*background: #212f3c;*/
     opacity: .25;
     padding: 15px;
 
