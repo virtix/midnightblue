@@ -82,6 +82,12 @@ section h3 {
     padding-top:.5em;
 }
 
+#thumbs {   
+    width: 940px;
+    margin-top:90px;
+    margin-left: auto; 
+    margin-right: auto;
+  }
 
 #gigs ul {
     list-style: none;
