@@ -1,4 +1,10 @@
 
+@media (max-width: 600px) {
+    .container {
+        flex-direction: column;
+    }
+}
+
 body {
     font-family: 'Raleway', sans-serif;
     margin: 0;
@@ -88,6 +94,7 @@ section h3 {
     margin-top:90px;
     margin-left: auto; 
     margin-right: auto;
+    display: flex;
   }
 
 #gigs ul {
