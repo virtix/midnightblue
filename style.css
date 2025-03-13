@@ -1,4 +1,10 @@
 
+.note {
+
+    color: crimson;
+    font-size: medium;
+}
+
 @media (max-width: 600px) {
     .container {
         flex-direction: column;
